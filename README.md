@@ -1,2 +1,8 @@
-# pdfunion
-A Python application designed to merge all PDF files from a single folder into one consolidated file, streamlining reading time and improving file portability
+# pdfutils
+
+A Python application for easy PDF file management.
+
+## Currently Available Features:
+
+- Merge multiple PDFs into a single file.
+
